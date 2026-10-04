@@ -133,3 +133,8 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+/* Lato renders π like a Cyrillic п, so use a serif math font for Greek letters */
+.math {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
