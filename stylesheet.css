@@ -138,3 +138,8 @@ span.highlight {
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
 }
+
+.oral {
+  color: #d32f2f;
+  font-weight: 700;
+}
